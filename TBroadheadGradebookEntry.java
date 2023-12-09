@@ -1,5 +1,5 @@
 import java.util.*;
-public class TBProg5 {
+public class TBroadheadGradebookEntry {
 
     /*displayGrades method prints out the array*/
     public static void displayGrades(double[] grades) {
